@@ -1,4 +1,7 @@
-# CPP00
+# CPP00 
+(Namespaces, classes, member functions, stdio streams,
+initialization lists, static, const, and some other basic
+stuff)
 ## Grade: 80/100
 ![cpp00](https://github.com/user-attachments/assets/ed7e753d-d7a1-4a65-ab88-276568671fe3)
 
